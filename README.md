@@ -3,10 +3,9 @@
 https://docs.devexpress.com/WPF/401250/dotnet-core-support/migrate-wpf-applications-to-netcore  
 
 # common
-Microsoft.Win32.Registry
-Security.Cryptography
-System.Data.SqlClient
-System.Security.Cryptography.ProtectedData
+Microsoft.Win32.Registry  
+System.Data.SqlClient  
+System.Security.Cryptography.ProtectedData  
 
 # ui
 install-package DevExpress.WindowsDesktop.Wpf  
