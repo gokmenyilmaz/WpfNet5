@@ -7,6 +7,7 @@ https://docs.devexpress.com/GeneralInformation/116698/installation/install-devex
 https://nuget.devexpress.com/early-access/api
 
 https://nuget.devexpress.com/#feed-url  start trial denmezse feed çalışmaz
+https://nuget.devexpress.com/aQlNnpRRQw8AfcZWjbMDfEdUM3idZsepvBXCl8GWNxAa2ZRBsd/api
 
 # common
 Microsoft.Win32.Registry  
