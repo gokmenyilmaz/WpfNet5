@@ -3,6 +3,9 @@
 https://docs.devexpress.com/WPF/401250/dotnet-core-support/migrate-wpf-applications-to-netcore  
 https://docs.devexpress.com/GeneralInformation/116698/installation/install-devexpress-controls-using-nuget-packages/setup-visual-studios-nuget-package-manager
 
+örnek feed
+https://nuget.devexpress.com/early-access/api
+
 # common
 Microsoft.Win32.Registry  
 System.Data.SqlClient  
