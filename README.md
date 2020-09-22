@@ -1,6 +1,7 @@
 # WpfNet5
 
 https://docs.devexpress.com/WPF/401250/dotnet-core-support/migrate-wpf-applications-to-netcore  
+https://docs.devexpress.com/GeneralInformation/116698/installation/install-devexpress-controls-using-nuget-packages/setup-visual-studios-nuget-package-manager
 
 # common
 Microsoft.Win32.Registry  
